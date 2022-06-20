@@ -13,7 +13,7 @@
 <li> Luminous Purple Styled Aesthetic</li>
 <li> Animated Inputs </li>
 <li> 100% Functional </li>
-<li>• Soon! BackEnd with MySQL and PHP 🌟</li>
+<li> Soon! BackEnd with MySQL and PHP 🌟</li>
 </ul>
 
 <p><strong>Acess</strong></p>
